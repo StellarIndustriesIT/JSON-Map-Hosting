@@ -1,0 +1,2 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*US[[:space:]]Zip[[:space:]]Code[[:space:]]Map.json filter=lfs diff=lfs merge=lfs -text
